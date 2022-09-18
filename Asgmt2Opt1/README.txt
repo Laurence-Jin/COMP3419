@@ -6,3 +6,5 @@ Main.pde contains non-color algorithm, find four point and so on
 Morph.pde contains the algorithm about erosion and dilation
 Intelligent object.pde contain two side characters class
 Mariontte.pde contains main character class
+
+Final mark 15.5/16
